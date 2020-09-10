@@ -1,6 +1,6 @@
 # Reinforcement_Learning
 
-** Resources used **
+*** Resources used ***
 
 A Deep Reinforcement Learning Chatbot 
 
