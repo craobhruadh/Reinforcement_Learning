@@ -18,3 +18,4 @@ Stanford CS 234: Reinforcement Learning
 Berkeley CS 285:
 
 - http://rail.eecs.berkeley.edu/deeprlcourse/
+- Associated github for the HW assignments: https://github.com/berkeleydeeprlcourse/homework_fall2020
