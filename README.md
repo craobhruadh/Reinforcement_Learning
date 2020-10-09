@@ -10,7 +10,7 @@ A Deep Reinforcement Learning Chatbot
 
 Deep Reinforcement Learning for recommender systems:
 - https://arxiv.org/pdf/1801.00209.pdf
-- https://arxiv.org/pdf/1810.12027.pdf
+- https://arxiv.org/pdf/1810.12027.pdf (good literature review section)
 - http://www.personal.psu.edu/~gjz5038/paper/www2018_reinforceRec/www2018_reinforceRec.pdf
 
 
