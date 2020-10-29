@@ -42,19 +42,12 @@ Classic papers
 networks
 
 Deep reinforcement learning Q-learning papers
-• Lange, Riedmiller. (2010). Deep auto-encoder neural networks in reinforcement
-learning: early image-based Q-learning method using autoencoders to construct
-embeddings
-• Mnih et al. (2013). Human-level control through deep reinforcement learning: Qlearning with convolutional networks for playing Atari.
-• Van Hasselt, Guez, Silver. (2015). Deep reinforcement learning with double Q-learning:
-a very effective trick to improve performance of deep Q-learning.
-• Lillicrap et al. (2016). Continuous control with deep reinforcement learning:
-continuous Q-learning with actor network for approximate maximization.
-• Gu, Lillicrap, Stuskever, L. (2016). Continuous deep Q-learning with model-based
-acceleration: continuous Q-learning with action-quadratic value functions.
-• Wang, Schaul, Hessel, van Hasselt, Lanctot, de Freitas (2016). Dueling network
-architectures for deep reinforcement learning: separates value and advantage
-estimation in Q-function.
+- Lange, Riedmiller. (2010). Deep auto-encoder neural networks in reinforcement learning: early image-based Q-learning method using autoencoders to construct embeddings
+- Mnih et al. (2013). Human-level control through deep reinforcement learning: Qlearning with convolutional networks for playing Atari.
+- Van Hasselt, Guez, Silver. (2015). Deep reinforcement learning with double Q-learning: a very effective trick to improve performance of deep Q-learning.
+- Lillicrap et al. (2016). Continuous control with deep reinforcement learning: continuous Q-learning with actor network for approximate maximization.
+- Gu, Lillicrap, Stuskever, L. (2016). Continuous deep Q-learning with model-based acceleration: continuous Q-learning with action-quadratic value functions.
+- Wang, Schaul, Hessel, van Hasselt, Lanctot, de Freitas (2016). Dueling network architectures for deep reinforcement learning: separates value and advantage estimation in Q-function.
 
 Robots!
 "Robotic manipulation with Deep Reinforcement Learning ant...", Gu, Holly, et. al. (2017)
