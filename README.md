@@ -37,8 +37,8 @@ Autonomous reinforcement learning from raw visual data, Lange & Riedmiller (2010
 "Continous control with Deep Reinforcement Learning", Lillicrap et. al. (2015)
 
 Classic papers
-• Watkins. (1989). Learning from delayed rewards: introduces Q-learning
-• Riedmiller. (2005). Neural fitted Q-iteration: batch-mode Q-learning with neural
+- Watkins. (1989). Learning from delayed rewards: introduces Q-learning
+- Riedmiller. (2005). Neural fitted Q-iteration: batch-mode Q-learning with neural
 networks
 
 Deep reinforcement learning Q-learning papers
@@ -50,6 +50,6 @@ Deep reinforcement learning Q-learning papers
 - Wang, Schaul, Hessel, van Hasselt, Lanctot, de Freitas (2016). Dueling network architectures for deep reinforcement learning: separates value and advantage estimation in Q-function.
 
 Robots!
-"Robotic manipulation with Deep Reinforcement Learning ant...", Gu, Holly, et. al. (2017)
+- "Robotic manipulation with Deep Reinforcement Learning ant...", Gu, Holly, et. al. (2017)
 
-"QT Opt: scalable Deep Reinforcement Learning of Vision-based Robotic Manipulation Skills".  Kalashnikov, Irpan, Pastor
+- "QT Opt: scalable Deep Reinforcement Learning of Vision-based Robotic Manipulation Skills".  Kalashnikov, Irpan, Pastor
