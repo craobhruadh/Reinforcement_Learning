@@ -32,7 +32,6 @@ Autonomous reinforcement learning from raw visual data, Lange & Riedmiller (2010
  Q learning on top of latent space leared with autoencoder, uses fitted Q-iteration
 
 "Human level control through deep reinforcement learning", Mnih et al (2013)
-- https://www.nature.com/articles/nature14236
 
 "Continous control with Deep Reinforcement Learning", Lillicrap et. al. (2015)
 
@@ -44,6 +43,8 @@ networks
 Deep reinforcement learning Q-learning papers
 - Lange, Riedmiller. (2010). Deep auto-encoder neural networks in reinforcement learning: early image-based Q-learning method using autoencoders to construct embeddings
 - Mnih et al. (2013). Human-level control through deep reinforcement learning: Qlearning with convolutional networks for playing Atari.
+  - https://www.nature.com/articles/nature14236
+
 - Van Hasselt, Guez, Silver. (2015). Deep reinforcement learning with double Q-learning: a very effective trick to improve performance of deep Q-learning.
 - Lillicrap et al. (2016). Continuous control with deep reinforcement learning: continuous Q-learning with actor network for approximate maximization.
 - Gu, Lillicrap, Stuskever, L. (2016). Continuous deep Q-learning with model-based acceleration: continuous Q-learning with action-quadratic value functions.
