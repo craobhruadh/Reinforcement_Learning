@@ -42,14 +42,19 @@ networks
 
 Deep reinforcement learning Q-learning papers
 - Lange, Riedmiller. (2010). Deep auto-encoder neural networks in reinforcement learning: early image-based Q-learning method using autoencoders to construct embeddings
- - http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.172.1873&rep=rep1&type=pdf
+  - http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.172.1873&rep=rep1&type=pdf
 - Mnih et al. (2013). Human-level control through deep reinforcement learning: Qlearning with convolutional networks for playing Atari.
- - https://www.nature.com/articles/nature14236
+  - https://www.nature.com/articles/nature14236
 - Van Hasselt, Guez, Silver. (2015). Deep reinforcement learning with double Q-learning: a very effective trick to improve performance of deep Q-learning.
- - https://arxiv.org/pdf/1509.06461.pdf
+  - https://arxiv.org/pdf/1509.06461.pdf
 - Lillicrap et al. (2016). Continuous control with deep reinforcement learning: continuous Q-learning with actor network for approximate maximization.
+  - https://arxiv.org/pdf/1509.02971.pdf
+
 - Gu, Lillicrap, Stuskever, L. (2016). Continuous deep Q-learning with model-based acceleration: continuous Q-learning with action-quadratic value functions.
+  - https://arxiv.org/pdf/1603.00748.pdf
+
 - Wang, Schaul, Hessel, van Hasselt, Lanctot, de Freitas (2016). Dueling network architectures for deep reinforcement learning: separates value and advantage estimation in Q-function.
+  - http://proceedings.mlr.press/v48/wangf16.pdf
 
 Robots!
 - "Robotic manipulation with Deep Reinforcement Learning ant...", Gu, Holly, et. al. (2017)
