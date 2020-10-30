@@ -27,6 +27,16 @@ Berkeley CS 285:
 - Associated github for the HW assignments: https://github.com/berkeleydeeprlcourse/homework_fall2020
 
 
+
+Sutton and Barton's "Reinforcement Learning: An Introduction".  There are many pdfs online such as this one:
+ - https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf
+
+Chapter 13 is on Policy Gradient Methods
+
+David Silver's Deep Mind lectures are a good supplementary resource:
+ - https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ
+
+
 Q learning:
 Autonomous reinforcement learning from raw visual data, Lange & Riedmiller (2010)
  Q learning on top of latent space leared with autoencoder, uses fitted Q-iteration
