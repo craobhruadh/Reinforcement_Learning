@@ -14,30 +14,30 @@ Deep Reinforcement Learning for recommender systems:
 - http://www.personal.psu.edu/~gjz5038/paper/www2018_reinforceRec/www2018_reinforceRec.pdf
 
 
-# Stanford CS 234: Reinforcement Learning
+### Stanford CS 234: Reinforcement Learning
 
 - https://www.youtube.com/watch?v=FgzM3zpZ55o&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u&index=2&t=0s
 
 
 
 
-# Berkeley CS 285:
+### Berkeley CS 285:
 
 - http://rail.eecs.berkeley.edu/deeprlcourse/
 - Associated github for the HW assignments: https://github.com/berkeleydeeprlcourse/homework_fall2020
 
 
 
-# Sutton and Barton's "Reinforcement Learning: An Introduction".  There are many pdfs online such as this one:
+### Sutton and Barton's "Reinforcement Learning: An Introduction".  There are many pdfs online such as this one:
  - https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf
 
 Chapter 13 is on Policy Gradient Methods
 
-# David Silver's Deep Mind lectures are a good supplementary resource:
+### David Silver's Deep Mind lectures are a good supplementary resource:
  - https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ
 
 
-# Q learning:
+### Q learning:
 Autonomous reinforcement learning from raw visual data, Lange & Riedmiller (2010)
  Q learning on top of latent space leared with autoencoder, uses fitted Q-iteration
 
@@ -45,12 +45,12 @@ Autonomous reinforcement learning from raw visual data, Lange & Riedmiller (2010
 
 "Continous control with Deep Reinforcement Learning", Lillicrap et. al. (2015)
 
-# Classic papers
+### Classic papers
 - Watkins. (1989). Learning from delayed rewards: introduces Q-learning
 - Riedmiller. (2005). Neural fitted Q-iteration: batch-mode Q-learning with neural
 networks
 
-# Deep reinforcement learning Q-learning papers
+### Deep reinforcement learning Q-learning papers
 - Lange, Riedmiller. (2010). Deep auto-encoder neural networks in reinforcement learning: early image-based Q-learning method using autoencoders to construct embeddings
   - http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.172.1873&rep=rep1&type=pdf
 - Mnih et al. (2013). Human-level control through deep reinforcement learning: Qlearning with convolutional networks for playing Atari.
