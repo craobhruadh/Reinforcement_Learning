@@ -45,6 +45,10 @@ Autonomous reinforcement learning from raw visual data, Lange & Riedmiller (2010
 
 "Continous control with Deep Reinforcement Learning", Lillicrap et. al. (2015)
 
+
+### Textbooks:
+- Algorithms of Reinforcement Learning https://sites.ualberta.ca/~szepesva/rlbook.html
+
 ### Classic papers
 - Watkins. (1989). Learning from delayed rewards: introduces Q-learning
 - Riedmiller. (2005). Neural fitted Q-iteration: batch-mode Q-learning with neural
