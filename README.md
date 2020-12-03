@@ -45,7 +45,7 @@ Autonomous reinforcement learning from raw visual data, Lange & Riedmiller (2010
 ### Textbooks:
 - Algorithms of Reinforcement Learning https://sites.ualberta.ca/~szepesva/rlbook.html
 
--  Sutton and Barton's "Reinforcement Learning: An Introduction".  There are many pdfs online such as this one: https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf
+-  Sutton and Barton's "Reinforcement Learning: An Introduction".  Make sure you get the second edition (as of 2020). There are many pdfs online such as this one: https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf
 
 
 ### Classic papers
