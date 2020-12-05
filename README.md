@@ -73,3 +73,10 @@ Robots!
 - "Robotic manipulation with Deep Reinforcement Learning ant...", Gu, Holly, et. al. (2017)
 
 - "QT Opt: scalable Deep Reinforcement Learning of Vision-based Robotic Manipulation Skills".  Kalashnikov, Irpan, Pastor
+
+
+
+### Fun exercises
+
+Blackjack!  Also talked about in the David Silver lectures and chapter 5 of Sutton and Barto
+https://www.davidsilver.uk/wp-content/uploads/2020/03/Easy21-Johannes.pdf
