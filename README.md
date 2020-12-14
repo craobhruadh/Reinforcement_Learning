@@ -33,6 +33,20 @@ Chapter 13 is on Policy Gradient Methods
  - https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ
 
 
+
+
+
+### Textbooks:
+- Algorithms of Reinforcement Learning https://sites.ualberta.ca/~szepesva/rlbook.html
+
+-  Sutton and Barton's "Reinforcement Learning: An Introduction".  Make sure you get the second edition (as of 2020). There are many pdfs online such as this one: https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf
+
+### Open AI:
+
+https://spinningup.openai.com/en/latest/spinningup/rl_intro.html
+
+This entire site is worth reading
+
 ### Q learning:
 Autonomous reinforcement learning from raw visual data, Lange & Riedmiller (2010)
  Q learning on top of latent space leared with autoencoder, uses fitted Q-iteration
@@ -41,11 +55,6 @@ Autonomous reinforcement learning from raw visual data, Lange & Riedmiller (2010
 
 "Continous control with Deep Reinforcement Learning", Lillicrap et. al. (2015)
 
-
-### Textbooks:
-- Algorithms of Reinforcement Learning https://sites.ualberta.ca/~szepesva/rlbook.html
-
--  Sutton and Barton's "Reinforcement Learning: An Introduction".  Make sure you get the second edition (as of 2020). There are many pdfs online such as this one: https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf
 
 
 ### Classic papers
