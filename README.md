@@ -84,6 +84,9 @@ Robots!
 - "QT Opt: scalable Deep Reinforcement Learning of Vision-based Robotic Manipulation Skills".  Kalashnikov, Irpan, Pastor
 
 
+Monte Carlo Tree Search:
+
+- Browne, Powley, Whitehouse, Lucas, Cowling, Rohlfshagen, Tavener, Perez, Samothrakis, Colton. (2012). A Survey of Monte Carlo Tree Search Methods
 
 ### Fun exercises
 
