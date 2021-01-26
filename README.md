@@ -84,6 +84,9 @@ Robots!
 - "QT Opt: scalable Deep Reinforcement Learning of Vision-based Robotic Manipulation Skills".  Kalashnikov, Irpan, Pastor
 
 
+Recurrent models of visual attention:
+- https://papers.nips.cc/paper/2014/file/09c6c3783b4a70054da74f2538ed47c6-Paper.pdf
+
 Monte Carlo Tree Search:
 
 - Browne, Powley, Whitehouse, Lucas, Cowling, Rohlfshagen, Tavener, Perez, Samothrakis, Colton. (2012). A Survey of Monte Carlo Tree Search Methods
